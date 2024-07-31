@@ -507,3 +507,6 @@ C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\obj\Deb
 C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\obj\Debug\net8.0\ref\api.dll
 C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\obj\Debug\net8.0\api.sourcelink.json
+C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\GithubProjects\Projects\Testbackend\TestWebApi\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
