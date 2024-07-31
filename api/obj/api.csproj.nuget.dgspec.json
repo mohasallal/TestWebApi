@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\TestWebApi\\api\\api.csproj": {}
+    "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\Testwebapi\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\TestWebApi\\api\\api.csproj": {
+    "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\Testwebapi\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\TestWebApi\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\Testwebapi\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\TestWebApi\\api\\api.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\Testwebapi\\api\\api.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\TestWebApi\\api\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GithubProjects\\Projects\\Testbackend\\Testwebapi\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
